@@ -1,3 +1,6 @@
+//Crea un programa que al recibir dos números 
+//escriba un resultado con las operaciones matemáticas básicas.
+
 let operador=Number(prompt("Por Favor, ingrese un primer número."))
 let operando=Number(prompt("Por Favor, ingrese un segundo número."))
 let resultadosum=operador+operando;
@@ -22,3 +25,5 @@ document.write("<br>")
 document.write("El resultado de la división es: ", resultadodiv);
 document.write("<br>")
 document.write("------------------------------------------------------------------------------------");
+
+
